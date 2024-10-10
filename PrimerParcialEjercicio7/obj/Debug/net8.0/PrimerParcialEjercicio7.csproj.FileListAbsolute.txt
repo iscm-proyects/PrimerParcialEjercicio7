@@ -1,0 +1,14 @@
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\bin\Debug\net8.0\PrimerParcialEjercicio7.exe
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\bin\Debug\net8.0\PrimerParcialEjercicio7.deps.json
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\bin\Debug\net8.0\PrimerParcialEjercicio7.runtimeconfig.json
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\bin\Debug\net8.0\PrimerParcialEjercicio7.dll
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\bin\Debug\net8.0\PrimerParcialEjercicio7.pdb
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.AssemblyInfoInputs.cache
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.AssemblyInfo.cs
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.csproj.CoreCompileInputs.cache
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.dll
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\refint\PrimerParcialEjercicio7.dll
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.pdb
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\PrimerParcialEjercicio7.genruntimeconfig.cache
+C:\Users\isaic\RiderProjects\PrimerParcialEjercicio7\PrimerParcialEjercicio7\obj\Debug\net8.0\ref\PrimerParcialEjercicio7.dll
